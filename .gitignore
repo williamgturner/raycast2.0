@@ -2,3 +2,4 @@
 .cache
 raycaster
 bin/
+compile_commands.json
