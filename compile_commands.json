@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iinclude",
+      "-Wall",
+      "-Werror",
+      "-std=c99",
+      "-I/opt/homebrew/include",
+      "-o",
+      "bin/raycaster",
+      "main.c"
+    ],
+    "directory": "/Users/william/Desktop/dev/raycast",
+    "file": "/Users/william/Desktop/dev/raycast/main.c",
+    "output": "/Users/william/Desktop/dev/raycast/bin/raycaster"
+  }
+]
