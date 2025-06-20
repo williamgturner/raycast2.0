@@ -3,3 +3,5 @@
 raycaster
 bin/
 compile_commands.json
+bundle.sh
+Raycaster.app

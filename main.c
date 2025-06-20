@@ -5,6 +5,7 @@
 #include <SDL3/SDL_main.h>
 #include <string.h>
 #include "vec.h"
+#include "render.h"
 
 SDL_Window *window = NULL;
 SDL_Renderer *renderer = NULL;
